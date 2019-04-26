@@ -1,7 +1,7 @@
 # pymare
 Python SDK for MARE.
 
-```
+```python
 from mare.components import Location, Vehicle
 from mare.matrix import Request
 
